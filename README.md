@@ -47,8 +47,8 @@
 ## 🌟 低调机场
 
 ### 🔗 访问入口
-- 主地址：[🚀 点我直达主站](https://panel.xn--oqqx39l.com/#/register?code=VrUQBB83)  
-- 备用地址：[🔗 备用通道不迷路](https://panel.xn--oqqx39l.com/#/register?code=rn3C1syq)  
+- 主地址：[🚀 点我直达主站](https://dash.xn--oqqx39l.com/#/register?code=VrUQBB83)  
+- 备用地址：[🔗 备用通道不迷路](https://dash.xn--oqqx39l.com/#/register?code=rn3C1syq)  
 
 
 ### 📦 订阅模式
