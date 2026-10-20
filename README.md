@@ -1,9 +1,33 @@
 # 平价机场推荐指南 ✈️
 
-✨ **最后更新时间**：2025年12月16日  
+✨ **最后更新时间**：2026年10月20日  
 💡 本项目专注推荐平价机场，值得期待～  
 
-## 🔥 赔钱机场（名字自带劲！）--*更新无需代理链接*
+## 🔥 NIVA Network--稍资费贵，但是在于原生节点。（需要代理打开链接）
+
+### 🔗 访问入口
+- 主地址：[🥤 主站直达](https://niva.sh/r/duduele)  
+
+### 📦 订阅模式，分为两个版本，只做原生节点池子MIO（都是1x）与精品线路Niva（经济池+原生（倍率高））
+
+- **按周期**：每月流量重置，适合稳定高频使用  
+- **按流量**：不限时长永久订阅，一次性付费终身可用
+
+
+<img width="965" height="771" alt="image" src="https://github.com/user-attachments/assets/3b5d8dbe-1dcb-4632-926c-d5058deb1f4b" />
+<img width="906" height="882" alt="image" src="https://github.com/user-attachments/assets/5593864e-880a-4808-992b-37c7be0f097f" />
+<img width="937" height="490" alt="image" src="https://github.com/user-attachments/assets/63b8adc8-8ab8-407c-8520-ae2d3b440300" />
+
+#### 节点信息（Niva）有数十条原生节点，IP十分纯净
+
+<img width="548" height="770" alt="image" src="https://github.com/user-attachments/assets/4c799e80-f9b4-4d96-b368-ba276fdbde82" />
+<img width="536" height="797" alt="image" src="https://github.com/user-attachments/assets/bd0763e2-8ed4-4e48-b228-b6c2fb34f8a8" />
+
+IP纯度测试：https://ippure.com/
+<img width="836" height="769" alt="image" src="https://github.com/user-attachments/assets/88488519-b062-4315-8850-2b8a7b07e697" />
+
+
+## 🔥 赔钱机场（名字自带劲！）
 
 ### 🔗 访问入口
 - 主地址：[🥤 主站直达](https://www.xn--mes358aby2apfg.site/register?code=o9qpL741)  
